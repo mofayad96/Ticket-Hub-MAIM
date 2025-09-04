@@ -146,7 +146,7 @@ TicketHub/
 ## 🎯 **Default Admin Account**
 
 For testing purposes, a default admin account is created:
-- **Email**: admin@tickethub.test
+- **Email**: admin@eventx.test
 - **Password**: Admin123!
 - **Role**: Administrator
 
