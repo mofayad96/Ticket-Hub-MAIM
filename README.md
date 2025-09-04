@@ -2,6 +2,7 @@
 
 A beautiful, full-stack event management application built with React, Node.js, and MongoDB. TicketHub provides a seamless experience for event organizers and attendees to create, discover, and book events.
 
+Link of App https://frontend2-bay-eta.vercel.app/
 ## ✨ **Features**
 
 - 🎨 **Modern UI/UX** - Beautiful, responsive design with smooth animations
