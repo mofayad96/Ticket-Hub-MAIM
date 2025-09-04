@@ -205,37 +205,6 @@ Update your production environment variables:
 - `JWT_SECRET` - Strong, unique secret key
 - `CLIENT_URL` - Production frontend URL
 
-## 🤝 **Contributing**
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📄 **License**
-
-This project is licensed under the MIT License.
-
-## 🆘 **Support**
-
-If you encounter any issues:
-1. Check the console logs for error messages
-2. Verify MongoDB is running and accessible
-3. Ensure all environment variables are set correctly
-4. Check that all dependencies are installed
-
-## 🎉 **Acknowledgments**
-
-- **Inter Font** - Beautiful typography from Google Fonts
-- **Heroicons** - Beautiful SVG icons
-- **Tailwind CSS** - Utility-first CSS framework
-- **React Community** - Amazing React ecosystem
-
----
-
-**Built with ❤️ using modern web technologies**
-
 
 
 
